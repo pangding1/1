@@ -63,5 +63,5 @@ def run_tests():
         return False
 
 if __name__ == "__main__":
-    print("姓名+学号")
+    print("李一帆+241275039")
     run_tests()
